@@ -18,8 +18,11 @@ NIPR is a modern expense tracking application designed to simplify personal fina
 
 ## Author
 **Name:** Ivy Cordes  
+
 **Email:** ivy125cordes@outlook.com
+
 **Website:**  
+
 Bio: A passionate developer with mastery in coding, experienced in building scalable web applications, and known for a helping nature in open‑source communities.
 
 
